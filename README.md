@@ -2,6 +2,7 @@ Solusvm quick vps migration script
 =====================
 
 Script for Quick migration of OpenVZ servers between SolusVM VPS nodes.
+ :Quick note: It is solusvm independent and you can just follow step 1 below for any openvz to openvz node.
 
 # Requirements
 - Root ssh access on target node
