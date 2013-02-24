@@ -10,7 +10,7 @@ Script for Quick migration of OpenVZ servers between SolusVM VPS nodes.
 # Usage
 1. On source node, enter the following command:
 
-    sh migrate.sh [SOURCE_VPS_IP] [TARGET_NODE_IP]
+    `sh migrate.sh [SOURCE_VPS_IP] [TARGET_NODE_IP]`
 
  * For the first time you will be prompted for root password
 2. After the vps transfer completion, login to your SolusVM node
